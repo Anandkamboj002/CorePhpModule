@@ -3,6 +3,6 @@
    if($conn){
       echo "Connection Is Successfully";
    }else{
-    echo "Bye Bye";
+    echo "Connection Is Not Successfull";
    }
 ?>
